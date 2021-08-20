@@ -1,3 +1,9 @@
+## Coursera course R programming week 3 peer graded assignment
+## Developer tikizu
+## Github: https://github.com/tikizu/ProgrammingAssignment2
+
+##Task
+
 ## Put comments here that give an overall description of what your
 ## functions do
 
