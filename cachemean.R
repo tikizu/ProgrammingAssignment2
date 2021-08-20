@@ -36,8 +36,15 @@ cachemean <- function(x, ...) {
   m
 }
 
+## Testing the two given functions
+
 test010 <- makeVector(1:10)
 test020 <- makeVector(1:10)
+test030 <- makeVector(2)
 
 cachemean(test010)
+cachemean(test010)
+
 cachemean(test020)
+
+cachemean(test030)
